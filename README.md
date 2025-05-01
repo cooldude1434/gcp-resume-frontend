@@ -1,1 +1,1 @@
-# gcp-resume-challenge-frontend
+Front end of Resume Depolyed in GCP 
